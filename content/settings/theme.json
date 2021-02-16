@@ -32,7 +32,7 @@
     "uppercaseH2": false
   },
   "menu": {
-    "style": "pil"
+    "style": "pill"
   },
   "defaultDarkMode": false
 }
